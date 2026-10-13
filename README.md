@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,100:8b5cf6&text=Caroline%20Dorneles&fontColor=e9d5ff&fontSize=46&fontAlignY=38&desc=estudante%20de%20an%C3%A1lise%20e%20desenvolvimento%20de%20sistemas&descColor=c4b5fd&descSize=16&descAlignY=58" alt="Banner Caroline Dorneles" width="100%" />
 
-<a href="https://github.com/SEU_USUARIO/SEU_USUARIO">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Java+%C2%B7+Python+%C2%B7+JavaScript;Aprendendo+um+commit+por+vez;Sempre+com+uma+d%C3%BAvida+nova" alt="Texto animado" />
+<a href="https://github.com/Caroldsd/Caroldsd">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Java+%C2%B7+Python+%C2%B7+JavaScript;Aprendendo+um+commit+por+vez" alt="Texto animado" />
 </a>
 
 </div>
@@ -28,25 +28,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minh
 
 <br>
 
-## ✦ Gráfico de atividades
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Caroldsd&bg_color=0d0d0d&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=8b5cf6&hide_border=true" alt="Gráfico de atividades" width="100%" />
-
-</div>
-
-<br>
-
-## ✦ Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Caroldsd&theme=dracula&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Troféus do GitHub" />
-
-</div>
-
-<br>
 
 ## ✦ Contribuições
 
